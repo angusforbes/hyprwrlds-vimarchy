@@ -1,5 +1,8 @@
 # hyprwrlds-vimarchy
 
+> **Newer versions live in [hyprpi](https://github.com/angusforbes/hyprpi/tree/master/hyprwrlds-vimarchy)**
+> (folder `hyprwrlds-vimarchy/`). This repo still works as it is, but it is no longer updated.
+
 A [Vimarchy](https://github.com/clickety-clacks/vimarchy)-style window overview for
 **[hyprwrlds](https://github.com/angusforbes/hyprwrlds)** worlds on Omarchy/Hyprland: see your
 workspaces as mini-screens with a live-looking preview of every app, jump to any window by typing
